@@ -1,0 +1,75 @@
+body{
+  background-color: #ffb6c1;
+}
+div{
+  background-color: #f0f8ff;
+  border-radius: 20px;
+  margin: 5px;
+  padding-left: 150px;
+  padding-right: 100px;
+  border: 1px solid black;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+  margin-top: -10px;
+}
+ul{
+  margin-bottom: 30px;
+  font-size: 18px;
+}
+
+h1{
+  font-size: 35px;
+  font-family: Arial, sans-serif;
+}
+.summary{
+  font-size: 25px;
+}
+.adress{
+  margin-top: -15px;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.phone{
+  margin-top: -18px;
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+}
+
+.date{
+  margin-top: -20px;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+}
+.job_position{
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+}
+.job_company{
+  margin-top: -25px;
+  font-size: 25px;
+  font-family: Arial, sans-serif;
+}
+.school{
+  margin-top: -25px;
+  font-size: 25px;
+  font-family: Arial, sans-serif;
+}
+.school_location{
+  margin-top: -25px;
+  font-size: 22px;
+  font-family: Arial, sans-serif;
+}
+.graduation_date{
+  margin-top: -25px;
+  font-size: 22px;
+  font-family: Arial, sans-serif;
+}
+.degree{
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+}
